@@ -4,7 +4,7 @@ const CONFIG = {
 
   name: "My Wifeyy",
   from: "your loving person",
-  giftNote: "For my Wifeyy",
+  giftNote: "I loveee youuu",
   giftOpened: "Yayyy, Myy! This little gift is all yours",
   letterTitle: "A little love letter for My Wifeyy",
   dear: "To my Wifeyy,",
